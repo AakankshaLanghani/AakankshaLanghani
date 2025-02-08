@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
-<img align="right" alt="coding" width="400" src="![Uploading image.png…]()">
+<img src="https://iconscout.com/illustration/woman-doing-data-analysis-5682641" alt="Woman Doing Data Analysis">
+
 
 - 🔭 I’m currently studying **Computer Science**
 
