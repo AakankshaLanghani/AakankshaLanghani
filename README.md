@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
