@@ -2,7 +2,7 @@
 <h3>A passionate Data Analyst/Scientist</h3>
 <img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" 
      alt="coding" width="250" 
-     style="float: right; margin-left: 15px;">
+     style="float: right; margin-left: 30px;">
 <p>Dedicated to uncovering insights through data analysis, visualization, and storytelling.</p>
 
 
