@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
-<img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" alt="coding" width="400" style="float: right; margin-left: 50px;">
+<img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" alt="coding" width="400" style="float: right; margin-left: 20px;">
 
 - 🔭 I’m currently studying **Computer Science**
 
