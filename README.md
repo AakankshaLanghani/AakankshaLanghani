@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Data Analyst/Scientist</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555)">
+<img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" alt="coding" width="400" style="float: right; margin-left: 10px;">
+
 
 - 🔭 I’m currently studying **Computer Science**
 
