@@ -7,7 +7,7 @@
 
 <p align="center">Dedicated to uncovering insights through data analysis, visualization, and storytelling.</p>
 
-- 🔭 I’m currently studying Computer Science  
+- 🔭 I’m currently studying **Computer Science**  
 
 - 🌱 I’m currently learning **Big Data and Machine Learning**  
 
