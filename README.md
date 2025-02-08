@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div>
-        <h3>A passionate Data Analyst/Scientist</h3>
-        <p>Dedicated to uncovering insights through data analysis, visualization, and storytelling.</p>
-    </div>
-    <img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" 
-         alt="coding" width="250" 
-         style="margin-left: 20px;">
-</div>
+<h3 align="center">A passionate Data Analyst/Scientist</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" alt="coding" width="300">
+</p>
+
+<p align="center">Dedicated to uncovering insights through data analysis, visualization, and storytelling.</p>
 
 - 🔭 I’m currently studying Computer Science
 
