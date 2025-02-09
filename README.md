@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **Computer Science**  
 
-- 🌱 I’m currently learning **Big Data and Machine Learning**  
+- 🌱 I’m currently exploring and learning **Big Data & Analytics and Machine Learning**  
 
 - 💻 I have worked on projects using tools such as **Power BI, Tableau, SQL, and Python**  
 
