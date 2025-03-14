@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1720a4db-f7b6-4171-a2de-fcfd486ce555" alt="coding" width="300">
-</p>
+</p> 
 
 <p align="center">Dedicated to uncovering insights through data analysis, visualization, and storytelling.</p>
 
