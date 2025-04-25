@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akankshalanghani13@gmail.com**
 
-- Link to my Resume:[Resume](https://docs.google.com/document/d/1et8VpzoCNhREYNaZVHCpcsnN6n7ywGnaEsXpxssrHTU/edit?usp=sharing)
+- Link to my Resume:[Resume](https://docs.google.com/document/d/1aLpXKX0ka9G9PqYz0CQ0kudpXzJFmlIJHf9s_KZNjKc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
