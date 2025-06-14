@@ -2,9 +2,8 @@
 <h3 align="center">Data & AI Enthusiast | Data Analyst Intern @ Wavetec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="girl coding" width="300" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding" width="300" />
 </p>
-
 
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
 
