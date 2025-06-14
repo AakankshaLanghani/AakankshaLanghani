@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
 <h3 align="center">Data & AI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+Github!+🤖" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://github.com/AakankshaLanghani/AakankshaLanghani/blob/main/9rfpor.webp" width="300" />
@@ -64,6 +67,4 @@
 | 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
-</p>
+
