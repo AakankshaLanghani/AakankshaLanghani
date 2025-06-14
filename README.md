@@ -2,7 +2,7 @@
 <h3 align="center">Data & AI Enthusiast | Data Analyst Intern @ Wavetec</h3>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/617cb476-67b6-4fa0-9c0a-e073527723ca)" width="300" />
+  <img src="https://www.deviantart.com/porforever/art/Programmer-Day-601013649" width="300" />
 </p>
 
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
