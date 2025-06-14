@@ -55,14 +55,11 @@
 
 ---
 
-### 🤖 Featured AI Projects
+### 🤖 Current AI Projects
 
 | Project | Description |
 |--------|-------------|
 | 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
-| 🍳 **Recipe Chatbot** | Socket-based chatbot that simulates an AI kitchen assistant |
-| 📬 **Internship Email Classifier** | n8n-based automation classifying internship emails using **OpenAI** |
-| 🧠 **EEG-Controlled System** *(WIP)* | Brain-computer interface to assist users with disabilities using **EEG data** |
 
 <p align="center">
   <img src="https://media.giphy.com/media/UqZyObX9aQbYvQ4LqY/giphy.gif" width="250" />
