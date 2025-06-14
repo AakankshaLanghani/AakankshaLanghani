@@ -16,7 +16,7 @@
 - 💡 Passionate about solving problems using **data, AI APIs, and no-code tools**
 - 💻 Built projects using **Power BI, Tableau, Python, SQL, Pandas, n8n, Gemini API, and OpenAI**
 
-- 👨‍💻 Check out my work: [GitHub Portfolio](https://github.com/AakankshaLanghani)
+- 👨‍💻 Check out my Portfolio: [ Portfolio]("https://aakankshaportfolio.framer.website/")
 
 - 📄 [View Resume](https://docs.google.com/document/d/1aLpXKX0ka9G9PqYz0CQ0kudpXzJFmlIJHf9s_KZNjKc/edit?usp=sharing)
 - 📫 Contact me: **akankshalanghani13@gmail.com**
