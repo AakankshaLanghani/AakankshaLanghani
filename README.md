@@ -6,24 +6,26 @@
 </p>
 
 <p align="center">
-  I'm a data girl in a digital world — decoding trends, designing dashboards, and developing AI agents with purpose. Every dataset tells a story, and I'm here to write it with algorithms. ✨📈🧠
+  I'm a data girl in a digital world — decoding trends, designing dashboards, and developing AI agents with purpose.  
+  Every dataset tells a story, and I'm here to write it with algorithms. ✨📈🧠
 </p>
 
 ---
+
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science Major @ IoBM  
-- 🧠 Interested in AI, Agents, Big Data & Automation  
+- 🧠 Exploring AI, Autonomous Agents, Big Data & Automation  
 - 📈 Skilled in: **Python, SQL, Power BI, Tableau, n8n, APIs**  
-- 🔧 Current Project: Automating inventory decisions using **n8n + Gemini API + Google Sheets**  
-- 🌍 Open to internships, collaborations, and hackathons!  
+- 🔧 Current Project: AI inventory agent using **n8n + Gemini API + Google Sheets**  
+- 🌍 Open to internships, collaborations, and hackathons  
 - 📬 Reach me: **akankshalanghani13@gmail.com**  
 - 📎 [Resume](https://docs.google.com/document/d/1aLpXKX0ka9G9PqYz0CQ0kudpXzJFmlIJHf9s_KZNjKc/edit?usp=sharing)  
 - 🌐 [LinkedIn](https://pk.linkedin.com/in/aakankshapardeep) | [GitHub](https://github.com/AakankshaLanghani)
 
 ---
 
-### 🔧 Tools & Tech
+### 🛠️ Tools & Tech
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
