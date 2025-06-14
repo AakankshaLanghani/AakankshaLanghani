@@ -55,15 +55,6 @@
 
 ---
 
-### ⚡ Featured Snapshot: AI Agent in Action
-
-<p align="center">
-  <img src="https://github.com/AakankshaLanghani/assets/blob/main/ai-agent-workflow.png" alt="AI Agent Workflow" width="500">
-</p>
-
-> 🤖 *Using Gemini API + n8n to create an AI Agent that makes smart inventory decisions on its own.*
-
----
 
 ### ✨ Let’s Connect & Collaborate!
 
