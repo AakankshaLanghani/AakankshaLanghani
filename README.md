@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding pixel" width="300" />
 </p>
-
-
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
 
 ---
