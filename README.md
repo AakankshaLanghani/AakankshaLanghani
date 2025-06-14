@@ -2,8 +2,9 @@
 <h3 align="center">💡 Data & AI Enthusiast | Automating Ideas into Impact</h3>
 
 <p align="center">
-  <img src="https://github.com/bnikitha05/bnikitha05/assets/72212350/85c2e37d-032d-4c53-9857-5394ffb5e728" alt="girl doing data science" width="320">
+  <img src="https://images.openai.com/thumbnails/url/C6RK9nicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4xKnEtLk9N1s3J8_Cs8suxKI1KLSpyLImMNC5IT7MstTCJcndKNc_xKnBKS3SsSjaxqKoMinL0ya8IKVcrBgA1Eiql" alt="stylized desk setup with a female coder" width="320">
 </p>
+
 
 <p align="center">
   I'm a data girl in a digital world — decoding trends, designing dashboards, and developing AI agents with purpose. Every dataset tells a story, and I'm here to write it with algorithms. ✨📈🧠
