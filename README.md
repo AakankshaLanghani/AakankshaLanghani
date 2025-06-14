@@ -2,8 +2,9 @@
 <h3 align="center">Data & AI Enthusiast | Data Analyst Intern @ Wavetec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="coding girl" width="300">
-</p> 
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="girl coding" width="300" />
+</p>
+
 
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
 
@@ -60,10 +61,6 @@
 | Project | Description |
 |--------|-------------|
 | 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/UqZyObX9aQbYvQ4LqY/giphy.gif" width="250" />
-</p>
 
 ---
 
