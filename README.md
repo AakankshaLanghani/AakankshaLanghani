@@ -2,7 +2,7 @@
 <h3 align="center">Data & AI Enthusiast | Data Analyst Intern @ Wavetec</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding pixel" width="300" />
+  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="girl coding pixel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMehekFatima&psig=AOvVaw3OFFeFzteonRwHfQSo-G56&ust=1749987173431000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj70LLo8I0DFQAAAAAdAAAAABAE)" width="300" />
 </p>
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
 
