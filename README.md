@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
-<h3 align="center">Data & AI Enthusiast/h3>
+<h3 align="center">Data & AI Enthusiast h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="pixel girl coding" width="300" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw3ECHp66Efa1UVwFFpovGZb&ust=1749987417351000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDPwqjp8I0DFQAAAAAdAAAAABAE" width="300" />
 </p>
 
 <p align="center">Turning data into decisions through analysis, automation, and AI-powered agents 🤖📊</p>
