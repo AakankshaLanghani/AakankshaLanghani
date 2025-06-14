@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
-<h3 align="center">Data & AI Enthusiast h3>
+<h3 align="center">Data & AI Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://github.com/AakankshaLanghani/AakankshaLanghani/blob/main/9rfpor.webp" width="300" />
