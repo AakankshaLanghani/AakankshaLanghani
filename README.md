@@ -9,16 +9,16 @@
 
 ---
 
-- 🔭 I’m currently studying **Computer Science** at IoBM  
-- 🌱 Currently exploring **AI Agents**, **Big Data Analytics**, and **Automation with n8n Open APIs**  
-- 💡 Passionate about building **AI-powered workflows** and **data-driven solutions**
-- 💻 I have worked on projects using **Power BI, Tableau, SQL, Python, Pandas, and n8n**
-- 🧠 Exploring AI capabilities with **Google Gemini, OpenAI APIs, and AI Decision Systems**
+- 🎓 Final-year **Computer Science** student at IoBM  
+- 🔍 Exploring **AI Agents**, **Big Data**, and **Automated Workflows using n8n**  
+- 📊 Skilled in **Data Analysis**, **Visualization**, and **Insightful Reporting**
+- 💡 Passionate about solving problems using **data, AI APIs, and no-code tools**
+- 💻 Built projects using **Power BI, Tableau, Python, SQL, Pandas, n8n, Gemini API, and OpenAI**
 
-- 👨‍💻 My projects are available on: [GitHub Portfolio](https://github.com/AakankshaLanghani)
+- 👨‍💻 Check out my work: [GitHub Portfolio](https://github.com/AakankshaLanghani)
 
 - 📄 [View Resume](https://docs.google.com/document/d/1aLpXKX0ka9G9PqYz0CQ0kudpXzJFmlIJHf9s_KZNjKc/edit?usp=sharing)
-- 📫 Reach me at: **akankshalanghani13@gmail.com**
+- 📫 Contact me: **akankshalanghani13@gmail.com**
 
 ---
 
@@ -32,40 +32,56 @@
 ---
 
 ### ⚙️ Tech Stack & Tools  
+
+#### 🐍 Python Libraries for Data & AI
+- `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
+- `openai`, `google-generativeai`, `nltk`, `socket`, `json`, `requests`
+
+#### 📊 Data Analysis & BI Tools
+- **Power BI**, **Tableau**, **Excel**, **SQL (MySQL, PostgreSQL, MSSQL)**  
+- **Power Query**, **Jupyter Notebook**
+
+#### 🤖 AI & Automation Tools
+- **n8n** – No-code automation for AI Agents & workflows  
+- **OpenAI API**, **Gemini API** (Google)  
+- **LangChain** *(basics)*  
+- **Socket Programming** (for intelligent chat agents)
+
+#### 👩‍💻 Programming Languages & Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,tableau,powerbi,numpy,pandas,seaborn" alt="data stack" />
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,git,mysql,postgres" alt="programming stack" />
-  <img src="https://skillicons.dev/icons?i=github,vscode" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,mysql" alt="tools" />
 </p>
 
 ---
 
-### 🤖 AI & Automation Projects  
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzY2sxdWNoOGJzZXZ2d3hsYm5haDdiY3FkODU3cDYzYzBxZGw1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqZyObX9aQbYvQ4LqY/giphy.gif" width="200"/>
-</p>
+### 🤖 Featured AI Projects
 
-- 🔹 **AI Inventory Manager** using **n8n**, **Gemini API**, and **Google Sheets**
-- 🔹 Created a **Recipe Chatbot** using **sockets**, simulating AI-based food assistant logic
-- 🔹 Built AI Agents that classify and respond to **internship emails** using **OpenAI APIs + n8n**
-- 🔹 Working on **BCI project** to help people with disabilities interact using **EEG signals**
+| Project | Description |
+|--------|-------------|
+| 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
+| 🍳 **Recipe Chatbot** | Socket-based chatbot that simulates an AI kitchen assistant |
+| 📬 **Internship Email Classifier** | n8n-based automation classifying internship emails using **OpenAI** |
+| 🧠 **EEG-Controlled System** *(WIP)* | Brain-computer interface to assist users with disabilities using **EEG data** |
 
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakankshaLanghani&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://media.giphy.com/media/UqZyObX9aQbYvQ4LqY/giphy.gif" width="250" />
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AakankshaLanghani&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaLanghani&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakankshaLanghani&theme=radical" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakankshaLanghani&theme=radical" alt="streak stats" />
 </p>
 
 ---
 
-### ✨ Let's Build Something Intelligent Together!
-Feel free to reach out for collaborations, internships, AI projects, or data gigs.  
-Let’s use **data, automation, and AI** to solve real-world problems!
-
----
+### ✨ Let’s Collaborate!
+Open to **internships**, **AI experiments**, and **data-driven collaborations**.  
+Let's use automation, analysis, and AI to build impactful solutions! 🌍
