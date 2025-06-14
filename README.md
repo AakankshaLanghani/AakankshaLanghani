@@ -2,8 +2,7 @@
 <h3 align="center">💡 Data & AI Enthusiast | Automating Ideas into Impact</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRwM2d0NWY0eWJ5Z2x2bHcxdHRocHB4bTlmYmx5cnEydjY0Z3EyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="girl coding AI" width="320">
-</p> 
+ <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 <p align="center">
   I'm a data girl in a digital world — decoding trends, designing dashboards, and developing AI agents with purpose. Every dataset tells a story, and I'm here to write it with algorithms. ✨📈🧠
