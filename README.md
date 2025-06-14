@@ -64,25 +64,6 @@
 | 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
 
 ---
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakankshaLanghani&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaLanghani&layout=compact&theme=radical" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakankshaLanghani&theme=radical" alt="streak stats" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Turning+data+into+decisions...;Building+smart+AI+agents+with+n8n+%2B+LangChain...;Automating+insights+with+Power+BI+%26+Python...;Welcome+to+my+AI+World!+🤖" alt="Typing SVG">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithikrathii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rithikrathii&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
