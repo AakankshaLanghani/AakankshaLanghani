@@ -2,14 +2,13 @@
 <h3 align="center">💡 Data & AI Enthusiast | Automating Ideas into Impact</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="girl with AI and data" width="320">
+  <img src="https://github.com/bnikitha05/bnikitha05/assets/72212350/85c2e37d-032d-4c53-9857-5394ffb5e728" alt="girl doing data science" width="320">
 </p>
 
 <p align="center">
   I'm a data girl in a digital world — decoding trends, designing dashboards, and developing AI agents with purpose. Every dataset tells a story, and I'm here to write it with algorithms. ✨📈🧠
 </p>
-
-
+---
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science Major @ IoBM  
