@@ -68,7 +68,7 @@
 
 
 # ✨ Let’s Collaborate!
-Open to **internships**, **AI experiments**, and **data-driven collaborations**.  
-Let's use automation, analysis, and AI to build impactful solutions! 🌍
+-Open to **internships**, **AI experiments**, and **data-driven collaborations**.  
+-Let's use automation, analysis, and AI to build impactful solutions! 🌍
 ---
 
