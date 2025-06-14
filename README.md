@@ -2,7 +2,7 @@
 <h3 align="center">💡 Data & AI Enthusiast | Automating Ideas into Impact</h3>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*BGzRHoMgydUvvv3-nLxcNQ.png" alt="Girl coder at desk illustration" width="320">
+  <img src="https://static.vecteezy.com/system/resources/previews/003/889/699/original/female-developer-working-on-data-analytics-illustration-vector.jpg" alt="female data analyst at laptop" width="320">
 </p>
 
 <p align="center">
@@ -51,16 +51,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshalanghani&theme=default" />
 </p>
-
----
-
-### 🧠 AI Agent Snapshot
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5uODd5amF3N3VrdzdzZWs0eHRqMGMyM2g1eWl5NW5mNGU4YjJjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" alt="AI Automation" width="420">
-</p>
-
-> 🛠 *Smart automation in action: built using n8n, Open APIs, and Gemini AI to assist inventory decisions.*
 
 ---
 
