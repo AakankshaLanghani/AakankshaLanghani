@@ -21,15 +21,6 @@
 
 ---
 
-### 🔗 Connect with Me  
-<p>
-  <a href="https://pk.linkedin.com/in/aakankshapardeep" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 ### ⚙️ Tech Stack & Tools  
 
 #### 🐍 Python Libraries for Data & AI
