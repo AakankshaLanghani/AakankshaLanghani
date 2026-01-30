@@ -45,15 +45,10 @@
 
 ---
 
-### 🤖 Current AI Projects
-
-| Project | Description |
-|--------|-------------|
-| 🧠 **AI Inventory Manager** | AI Agent built with **n8n + Gemini API**, auto-managing stock using **Google Sheets** |
 
 
 ### ✨ Let’s Collaborate!
-- Open to **internships**, **AI experiments**, and **data-driven collaborations**.  
+- Open to **projects**, **AI experiments**, and **data-driven collaborations**.  
 - Let's use automation, analysis, and AI to build impactful solutions! 🌍
 
 
