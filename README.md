@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakanksha%20Langhani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Builder%20%7C%20LLM%20Apps%20%7C%20Automation%20Engineer&descAlignY=58&descSize=16&descColor=a8b4cf" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=7EB8F7&center=true&vCenter=true&width=800&lines=Building+full-stack+AI+products+🚀;ATS+Resume+Analyzer+%7C+AI+Interview+Coach;RAG+pipelines+%7C+AI+Agents+%7C+LLM+apps;n8n+automations+%7C+LangChain+%7C+OpenAI+%7C+Gemini;Final+year+CS+student+shipping+real+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=7EB8F7&center=true&vCenter=true&width=800&lines=Building+full-stack+AI+products+🚀;ATS+Resume+Analyzer+%7C+AI+Interview+Coach;RAG+pipelines+%7C+AI+Agents+%7C+LLM+apps;n8n+automations+%7C+LangChain+%7C+OpenAI+%7C+Gemini;Final+year+CS+student+shipping+real+things" />
 </p>
 
 <br/>
